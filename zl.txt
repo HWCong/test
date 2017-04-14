@@ -3,3 +3,4 @@ good bye
 333
 4467676
 Git has a mutable index called stage.
+chw and chw
