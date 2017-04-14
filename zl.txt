@@ -2,3 +2,4 @@ hello chw ,this is my git.
 good bye
 333
 4467676
+Git has a mutable index called stage.
