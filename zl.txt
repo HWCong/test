@@ -5,3 +5,4 @@ good bye
 Git has a mutable index called stage.
 chw and chw
 git last
+new reote
